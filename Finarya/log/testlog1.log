@@ -1,0 +1,132 @@
+2022-04-18 11:31:14,837 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit
+2022-04-18 11:31:16,430 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Managment
+2022-04-18 11:31:17,515 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Workbench
+2022-04-18 11:31:33,928 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Create Audit Panel
+2022-04-18 11:31:39,035 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Audit
+2022-04-18 11:31:39,035 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Stakeholders
+2022-04-18 11:31:39,217 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Checklist
+2022-04-18 11:31:39,519 [TestNG-test=ChromeTest-1] INFO FINARYA - Internal Audit Number Is  1200
+2022-04-18 11:31:39,789 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Breach Type Is  Internal
+2022-04-18 11:32:03,283 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Current date Is Selected
+2022-04-18 11:32:35,365 [TestNG-test=ChromeTest-1] INFO FINARYA - Branch Code Is Automaticaly Created Is
+2022-04-18 11:32:35,366 [TestNG-test=ChromeTest-1] INFO FINARYA - Cost Center Name Is Automaticaly Created Is
+2022-04-18 11:33:53,030 [TestNG-test=ChromeTest-1] INFO FINARYA - System opens up Assign Process, Risk & Control to Auditor tab  showing Process, Risk & Control Mapping Panel table with  Search Functionality.
+2022-04-18 11:33:54,188 [TestNG-test=ChromeTest-1] INFO FINARYA - Select the existing matching record
+2022-04-18 11:33:55,794 [TestNG-test=ChromeTest-1] INFO FINARYA - Select Record is display on selected control panel Process, Risk and Control record selected for Audit
+2022-04-18 11:33:57,396 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open up Checklist tab 
+2022-04-18 11:37:06,021 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit
+2022-04-18 11:37:07,269 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Managment
+2022-04-18 11:37:08,393 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Workbench
+2022-04-18 11:37:25,806 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Create Audit Panel
+2022-04-18 11:37:30,580 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Audit
+2022-04-18 11:37:30,580 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Stakeholders
+2022-04-18 11:37:30,580 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Checklist
+2022-04-18 11:37:30,695 [TestNG-test=ChromeTest-1] INFO FINARYA - Internal Audit Number Is  1200
+2022-04-18 11:37:31,011 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Breach Type Is  Internal
+2022-04-18 11:37:54,695 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Current date Is Selected
+2022-04-18 11:38:27,171 [TestNG-test=ChromeTest-1] INFO FINARYA - Branch Code Is Automaticaly Created Is
+2022-04-18 11:38:27,172 [TestNG-test=ChromeTest-1] INFO FINARYA - Cost Center Name Is Automaticaly Created Is
+2022-04-18 11:39:46,295 [TestNG-test=ChromeTest-1] INFO FINARYA - System opens up Assign Process, Risk & Control to Auditor tab  showing Process, Risk & Control Mapping Panel table with  Search Functionality.
+2022-04-18 11:39:47,560 [TestNG-test=ChromeTest-1] INFO FINARYA - Select the existing matching record
+2022-04-18 11:39:49,132 [TestNG-test=ChromeTest-1] INFO FINARYA - Select Record is display on selected control panel Process, Risk and Control record selected for Audit
+2022-04-18 11:39:50,829 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open up Checklist tab 
+2022-04-18 11:55:54,851 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit
+2022-04-18 11:55:59,605 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Managment
+2022-04-18 11:56:00,806 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Workbench
+2022-04-18 11:56:10,779 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Create Audit Panel
+2022-04-18 11:56:14,180 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Audit
+2022-04-18 11:56:14,180 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Stakeholders
+2022-04-18 11:56:14,180 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Checklist
+2022-04-18 11:56:14,283 [TestNG-test=ChromeTest-1] INFO FINARYA - Internal Audit Number Is  1200
+2022-04-18 11:56:14,557 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Breach Type Is  Internal
+2022-04-18 11:56:39,841 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Current date Is Selected
+2022-04-18 11:57:11,954 [TestNG-test=ChromeTest-1] INFO FINARYA - Branch Code Is Automaticaly Created Is
+2022-04-18 11:57:11,955 [TestNG-test=ChromeTest-1] INFO FINARYA - Cost Center Name Is Automaticaly Created Is
+2022-04-18 11:58:30,317 [TestNG-test=ChromeTest-1] INFO FINARYA - System opens up Assign Process, Risk & Control to Auditor tab  showing Process, Risk & Control Mapping Panel table with  Search Functionality.
+2022-04-18 11:58:31,563 [TestNG-test=ChromeTest-1] INFO FINARYA - Select the existing matching record
+2022-04-18 11:58:33,161 [TestNG-test=ChromeTest-1] INFO FINARYA - Select Record is display on selected control panel Process, Risk and Control record selected for Audit
+2022-04-18 11:58:34,827 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open up Checklist tab 
+2022-04-18 11:58:52,168 [TestNG-test=ChromeTest-1] INFO FINARYA - Create audit Successfully 
+2022-04-18 12:02:11,912 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit
+2022-04-18 12:02:13,602 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Managment
+2022-04-18 12:02:14,674 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Workbench
+2022-04-18 12:02:46,458 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Create Audit Panel
+2022-04-18 12:02:56,272 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Audit
+2022-04-18 12:02:56,272 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Stakeholders
+2022-04-18 12:02:56,273 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Checklist
+2022-04-18 12:02:56,374 [TestNG-test=ChromeTest-1] INFO FINARYA - Internal Audit Number Is  1200
+2022-04-18 12:02:56,670 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Breach Type Is  Internal
+2022-04-18 12:03:21,859 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Current date Is Selected
+2022-04-18 12:03:54,194 [TestNG-test=ChromeTest-1] INFO FINARYA - Branch Code Is Automaticaly Created Is
+2022-04-18 12:03:54,194 [TestNG-test=ChromeTest-1] INFO FINARYA - Cost Center Name Is Automaticaly Created Is
+2022-04-18 12:05:13,843 [TestNG-test=ChromeTest-1] INFO FINARYA - System opens up Assign Process, Risk & Control to Auditor tab  showing Process, Risk & Control Mapping Panel table with  Search Functionality.
+2022-04-18 12:05:15,805 [TestNG-test=ChromeTest-1] INFO FINARYA - Select the existing matching record
+2022-04-18 12:05:17,388 [TestNG-test=ChromeTest-1] INFO FINARYA - Select Record is display on selected control panel Process, Risk and Control record selected for Audit
+2022-04-18 12:05:19,041 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open up Checklist tab 
+2022-04-18 12:05:48,740 [TestNG-test=ChromeTest-1] INFO FINARYA - Create audit Successfully 
+2022-04-18 12:11:50,952 [TestNG-test=ChromeTest-1] INFO FINARYA - System will List Audit page and populates the List Of the Audits .
+2022-04-18 12:24:34,741 [TestNG-test=ChromeTest-1] INFO FINARYA - System will List Audit page and populates the List Of the Audits .
+2022-04-18 12:28:54,487 [TestNG-test=ChromeTest-1] INFO FINARYA - System will display the matching record in the table
+2022-04-18 12:28:56,009 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open Auditee Workbench page with tabs
+2022-04-18 12:28:59,508 [TestNG-test=ChromeTest-1] INFO FINARYA - Screen will open a functionality for the User to Add files
+2022-04-18 12:29:00,762 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open the path for file selection 
+2022-04-18 12:29:04,819 [TestNG-test=ChromeTest-1] INFO FINARYA - System will provide option to the Start or Cancel Upload 
+2022-04-18 12:36:58,958 [TestNG-test=ChromeTest-1] INFO FINARYA - System will List Audit page and populates the List Of the Audits .
+2022-04-18 12:37:20,930 [TestNG-test=ChromeTest-1] INFO FINARYA - System will display the matching record in the table
+2022-04-18 12:37:22,327 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open Auditee Workbench page with tabs
+2022-04-18 12:37:25,751 [TestNG-test=ChromeTest-1] INFO FINARYA - Screen will open a functionality for the User to Add files
+2022-04-18 12:37:26,936 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open the path for file selection 
+2022-04-18 12:37:30,402 [TestNG-test=ChromeTest-1] INFO FINARYA - System will provide option to the Start or Cancel Upload 
+2022-04-18 12:37:35,111 [TestNG-test=ChromeTest-1] INFO FINARYA - System will display option to Delete the uploaded file
+2022-04-18 12:37:47,435 [TestNG-test=ChromeTest-1] INFO FINARYA - System will take the User back to Auditee Workbench
+2022-04-18 12:38:11,630 [TestNG-test=ChromeTest-1] INFO FINARYA - System will pop-up a message Reason Added Successfully
+2022-04-18 12:38:11,631 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open a menu table Sample Audit Control Comments with following columns with data values:
+
+ID
+Created
+User ID
+User Name
+Comment
+2022-04-18 12:38:12,647 [TestNG-test=ChromeTest-1] INFO FINARYA - System will take the User back to Auditee Workbench
+2022-04-18 12:42:08,788 [TestNG-test=ChromeTest-1] INFO FINARYA - System will List Audit page and populates the List Of the Audits .
+2022-04-18 12:42:33,493 [TestNG-test=ChromeTest-1] INFO FINARYA - System will display the matching record in the table
+2022-04-18 12:42:35,059 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open Auditor Workbench page with tabs
+2022-04-18 12:42:38,344 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open a window to input Auditor Comment
+2022-05-09 15:37:17,018 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit
+2022-05-09 15:37:18,581 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Managment
+2022-05-09 15:37:19,693 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Audit Workbench
+2022-05-09 15:37:24,418 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens  Create Audit Panel
+2022-05-09 15:37:26,839 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Audit
+2022-05-09 15:37:26,839 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Stakeholders
+2022-05-09 15:37:26,840 [TestNG-test=ChromeTest-1] INFO FINARYA - Expected Result is System opens page Create Audit Panel with Tabs Is    Checklist
+2022-05-09 15:37:26,962 [TestNG-test=ChromeTest-1] INFO FINARYA - Internal Audit Number Is  1200
+2022-05-09 15:37:27,247 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Breach Type Is  Internal
+2022-05-09 15:37:49,739 [TestNG-test=ChromeTest-1] INFO FINARYA - Audit Current date Is Selected
+2022-05-09 15:38:22,794 [TestNG-test=ChromeTest-1] INFO FINARYA - Branch Code Is Automaticaly Created Is
+2022-05-09 15:38:22,795 [TestNG-test=ChromeTest-1] INFO FINARYA - Cost Center Name Is Automaticaly Created Is
+2022-05-09 15:39:41,939 [TestNG-test=ChromeTest-1] INFO FINARYA - System opens up Assign Process, Risk & Control to Auditor tab  showing Process, Risk & Control Mapping Panel table with  Search Functionality.
+2022-05-09 15:39:43,372 [TestNG-test=ChromeTest-1] INFO FINARYA - Select the existing matching record
+2022-05-09 15:39:45,052 [TestNG-test=ChromeTest-1] INFO FINARYA - Select Record is display on selected control panel Process, Risk and Control record selected for Audit
+2022-05-09 15:39:46,848 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open up Checklist tab 
+2022-05-09 15:39:51,192 [TestNG-test=ChromeTest-1] INFO FINARYA - Create audit Successfully 
+2022-05-09 15:42:18,897 [TestNG-test=ChromeTest-1] INFO FINARYA - System will List Audit page and populates the List Of the Audits .
+2022-05-09 15:42:28,571 [TestNG-test=ChromeTest-1] INFO FINARYA - System will display the matching record in the table
+2022-05-09 15:42:30,168 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open Auditee Workbench page with tabs
+2022-05-09 15:42:33,684 [TestNG-test=ChromeTest-1] INFO FINARYA - Screen will open a functionality for the User to Add files
+2022-05-09 15:42:34,939 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open the path for file selection 
+2022-05-09 15:42:39,288 [TestNG-test=ChromeTest-1] INFO FINARYA - System will provide option to the Start or Cancel Upload 
+2022-05-09 15:42:42,504 [TestNG-test=ChromeTest-1] INFO FINARYA - System will display option to Delete the uploaded file
+2022-05-09 15:42:54,818 [TestNG-test=ChromeTest-1] INFO FINARYA - System will take the User back to Auditee Workbench
+2022-05-09 15:43:18,926 [TestNG-test=ChromeTest-1] INFO FINARYA - System will pop-up a message Reason Added Successfully
+2022-05-09 15:43:18,926 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open a menu table Sample Audit Control Comments with following columns with data values:
+
+ID
+Created
+User ID
+User Name
+Comment
+2022-05-09 15:43:19,938 [TestNG-test=ChromeTest-1] INFO FINARYA - System will take the User back to Auditee Workbench
+2022-05-09 15:44:33,769 [TestNG-test=ChromeTest-1] INFO FINARYA - System will List Audit page and populates the List Of the Audits .
+2022-05-09 15:44:40,363 [TestNG-test=ChromeTest-1] INFO FINARYA - System will display the matching record in the table
+2022-05-09 15:44:41,968 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open Auditor Workbench page with tabs
+2022-05-09 15:44:45,509 [TestNG-test=ChromeTest-1] INFO FINARYA - System will open a window to input Auditor Comment

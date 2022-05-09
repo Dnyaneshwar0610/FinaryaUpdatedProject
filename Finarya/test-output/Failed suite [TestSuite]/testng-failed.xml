@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="classes" name="Failed suite [Failed suite [TestSuite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="classes" name="ChromeTest(failed)(failed)">
+    <parameter name="CrossBrowserTesting" value="Chrome"/>
+    <classes>
+      <class name="finarya_Tests.TC4_CreateProductTest">
+        <methods>
+          <include name="LaunchBrowser"/>
+          <include name="Department" invocation-numbers="37 38 39 40 41 42 43 44 45 46 47 48"/>
+        </methods>
+      </class> <!-- finarya_Tests.TC4_CreateProductTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [TestSuite]] -->

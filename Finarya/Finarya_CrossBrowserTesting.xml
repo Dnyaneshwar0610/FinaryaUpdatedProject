@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="1" parallel="classes">
+	<test name="ChromeTest">
+		<parameter name="CrossBrowserTesting" value="Chrome" />
+		<parameter name="application_url"
+			value="https://10.10.10.14:9443/" />
+		<classes>
+			<!-- <class name="finarya_Tests.TC01_LoginAndLanding" /> -->
+			<!-- <class name="finarya_Tests.TC02_CreateViewDepartment" /> -->
+			<!--<class name="finarya_Tests.TC03_UpdateViewDepartment" /> -->
+			<!-- <class name="finarya_Tests.TC04_DeleteDepartment" /> -->
+			<!-- <class name="finarya_Tests.TC05_ListDepartment" /> -->
+			<!-- <class name="finarya_Tests.TC07_CreateViewProduct" /> -->
+			<!--<class name="finarya_Tests.TC08_UpdateViewProduct" /> -->
+			<!--<class name="finarya_Tests.TC09_DeleteProduct" /> -->
+			<!--<class name="finarya_Tests.TC10_ListProduct" /> -->
+			<!--<class name="finarya_Tests.TC12_CreateViewUser" /> -->
+			<!--<class name="finarya_Tests.TC13_UpdateViewUser" /> -->
+			<!-- <class name="finarya_Tests.TC14_DeleteUser" /> -->
+			<!-- <class name="finarya_Tests.TC15_ListUser" /> -->
+			<!-- <class name="finarya_Tests.TC25_ListRisk"></class> -->
+			<!-- <class name="finarya_Tests.TC30_ListControl"></class> -->
+			<!-- <class name="finarya_Tests.TC32_CreateViewAudit" /> -->
+			<!-- <class name="finarya_Tests.TC35_ListAudit" /> -->
+			<!-- <class name="finarya_Tests.TC36_AuditeeWorkbench" /> -->
+			<!--<class name="finarya_Tests.TC37_AuditorWorkbench" /> -->
+
+			<!--<class name="finarya_Tests.TC40_DeleteIssue" /> -->
+			<!-- <class name="finarya_Tests.TC41_ListIssue" /> -->
+			
+			<!-- <class name="finarya_Tests.TC45_ListRCA" /> -->
+			<!-- <class name="finarya_Tests.TC71_CreateAuditeeResponse" /> -->
+			<!-- <class name="finarya_Tests.TC72_CreateAuditorResponse" /> -->
+			
+			<!-- FreamWork Explain -->
+			<!--<class name="finarya_Tests.TC17_CreateViewProcess" /> -->
+			<!-- <class name="finarya_Tests.TC20_ListProcess" /> -->
+			<!-- Fail Test Case -->
+			<!--<class name="finarya_Tests.TC27_CreateViewControl" /> -->
+			<!-- <class name="finarya_Tests.TC28_UpdateViewControl" /> -->
+			<!-- <class name="finarya_Tests.TC29_DeleteControl" /> -->
+			<!--<class name="finarya_Tests.TC39_UpdateViewIssue" /> -->
+			<!--<class name="finarya_Tests.TC18_UpdateViewProcess" /> -->
+		</classes>
+	</test>
+</suite>

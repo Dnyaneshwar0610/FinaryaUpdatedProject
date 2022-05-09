@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="classes" name="Failed suite [TestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="classes" name="ChromeTest(failed)">
+    <parameter name="CrossBrowserTesting" value="Chrome"/>
+    <parameter name="application_url" value="https://10.10.10.14:9443/"/>
+    <classes>
+      <class name="finarya_Tests.TC13_UpdateViewUser">
+        <methods>
+          <include name="loginuserupdate" invocation-numbers="0"/>
+          <include name="LaunchBrowser"/>
+          <include name="assignrole"/>
+          <include name="Logout"/>
+        </methods>
+      </class> <!-- finarya_Tests.TC13_UpdateViewUser -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
